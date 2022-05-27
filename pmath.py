@@ -8,3 +8,4 @@ print(total-expenses)
 monthlysavins=2500
 peryear=12
 print(monthlysavins*peryear)
+sindhu=10
