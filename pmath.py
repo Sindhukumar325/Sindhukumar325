@@ -1,9 +1,9 @@
 print('pmath')
-sindhu=500
+sindhu=1000
 ramya=5000
 print(sindhu+ramya)
 total=5500
-expenses=3000
+expenses=2500
 print(total-expenses)
 monthlysavins=2500
 peryear=12
