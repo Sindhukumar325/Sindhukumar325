@@ -1,0 +1,10 @@
+print('pmath')
+sindhu=500
+ramya=5000
+print(sindhu+ramya)
+total=5500
+expenses=3000
+print(total-expenses)
+monthlysavins=2500
+peryear=12
+print(monthlysavins*peryear)
